@@ -1,0 +1,4 @@
+Weather app
+Weather web application, where users can see weather condition of any place.
+Features: View Weather
+Role: Developer | Tech Stack: Javascript, HTML, CSS
